@@ -1,0 +1,9 @@
+{
+  "@context": "http://schema.org",
+  "@type": "ComputerLanguage",
+  "name": "Ruby",
+  "description": "汎用プログラミング言語",
+  "disambiguatingDescription": "構造化、命令型、オブジェクト指向。",
+  "mainEntityOfPage": "http://www.ruby-lang.org/ja/",
+  "url": "https://ja.wikipedia.org/wiki/Ruby"
+}

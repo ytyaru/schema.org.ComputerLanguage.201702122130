@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org",
+  "@type": "ComputerLanguage",
+  "name": "JavaScript",
+  "description": "プロトタイプベースのオブジェクト指向スクリプト言語",
+  "disambiguatingDescription": "マルチパラダイム。ウェブブラウザで動作する。",
+  "url": "https://ja.wikipedia.org/wiki/JavaScript"
+}

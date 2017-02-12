@@ -1,0 +1,11 @@
+{
+  "@context": "http://schema.org",
+  "@type": "ComputerLanguage",
+  "name": "C#",
+  "alternateName": "CSharp",
+  "description": "マルチパラダイムプログラミング言語",
+  "disambiguatingDescription": "強い型付け、命令型、宣言型、手続き型、関数型、ジェネリック、オブジェクト指向。",
+  "url": "https://ja.wikipedia.org/wiki/C_Sharp",
+  "sameAs": ["https://msdn.microsoft.com/ja-jp/library/kx37x362.aspx", "http://www.mono-project.com/docs/about-mono/languages/csharp/"]
+}
+

@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org",
+  "@type": "ComputerLanguage",
+  "name": "C",
+  "description": "汎用プログラミング言語",
+  "disambiguatingDescription": "手続き型言語、関数型言語、コンパイラ言語。",
+  "url": "https://ja.wikipedia.org/wiki/C%E8%A8%80%E8%AA%9E"
+}

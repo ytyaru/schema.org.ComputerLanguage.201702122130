@@ -1,0 +1,11 @@
+{
+  "@context": "http://schema.org",
+  "@type": "ComputerLanguage",
+  "name": "C++",
+  "alternateName": "cpp",
+  "description": "汎用プログラミング言語",
+  "disambiguatingDescription": "C言語の拡張として開発された。",
+  "url": "https://ja.wikipedia.org/wiki/C%2B%2B",
+  "sameAs": ["https://ja.wikipedia.org/wiki/C%2B%2B", "https://ja.wikipedia.org/wiki/Microsoft_Visual_C%2B%2B", "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89", "https://ja.wikipedia.org/wiki/GNU%E3%82%B3%E3%83%B3%E3%83%91%E3%82%A4%E3%83%A9%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3", "https://ja.wikipedia.org/wiki/Clang", "https://ja.wikipedia.org/wiki/Intel_C%2B%2B_Compiler"]
+}
+

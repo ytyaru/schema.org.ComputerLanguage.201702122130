@@ -1,0 +1,9 @@
+{
+  "@context": "http://schema.org",
+  "@type": "ComputerLanguage",
+  "name": "Java",
+  "description": "オブジェクト指向プログラミング言語",
+  "disambiguatingDescription": "構造化・命令型・オブジェクト指向。",
+  "url": "https://ja.wikipedia.org/wiki/C_Sharp",
+  "sameAs": ["http://www.oracle.com/jp/technologies/java/standard-edition/overview/", "http://www.oracle.com/technetwork/jp/middleware/jrockit/overview/", "http://openjdk.java.net/", "http://gcc.gnu.org/java/"]
+}

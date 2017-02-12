@@ -1,0 +1,9 @@
+{
+  "@context": "http://schema.org",
+  "@type": "ComputerLanguage",
+  "name": "Python",
+  "description": "汎用プログラミング言語",
+  "disambiguatingDescription": " 	マルチパラダイム: オブジェクト指向, 命令形, 関数型, 手続き型, リフレクティブ。",
+  "mainEntityOfPage": "https://www.python.org/",
+  "url": "https://ja.wikipedia.org/wiki/Python"
+}
